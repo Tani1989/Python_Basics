@@ -1,0 +1,20 @@
+SETTING THE WORKING DIRECTORY IN JUPYTER:
+	a) To check the present working directory:
+		     
+         pwd
+		
+    OR
+		
+		   import os
+       os.getcwd()
+		
+		
+	b) To change the present working directory:
+        
+        os.chdir('path')
+        
+	         
+	
+	
+	
+	
